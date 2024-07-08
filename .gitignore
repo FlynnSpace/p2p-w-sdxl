@@ -1,0 +1,11 @@
+# Ignore PyCharm/IntelliJ IDEA project settings
+.idea/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Other ignores
+*.log
+*.env
+
